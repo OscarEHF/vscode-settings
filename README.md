@@ -7,7 +7,6 @@ My personal Visual Studio Code settings.
 ## Font
 
 - [Source Code Pro]("https://fonts.google.com/specimen/Source+Code+Pro?query=source+code+pro")
-- [Source Code Pro]("URL")
 
 ## Settings
 
