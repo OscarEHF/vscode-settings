@@ -6,17 +6,15 @@ My personal Visual Studio Code settings.
 
 ## Font
 
-- [Source Code Pro]("https://fonts.google.com/specimen/Source+Code+Pro?query=source+code+pro")
-- [Source Code Pro]("https://fonts.google.com/specimen/Source+Code+Pro?query=source+code+pro")
-- [Styled Components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
+- [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro?query=source+code+pro)
 
 ## Settings
 
-- [settings.json]("URL")
+- [settings.json](https://github.com/OscarEHF/vscode-settings/blob/master/settings.json)
 
 ## Snippets
 
-- See my full list of snippets [here]("URL").
+- See my full list of snippets [here](https://github.com/OscarEHF/vscode-settings/tree/master/snippets).
 
 ### Extensiones
 
